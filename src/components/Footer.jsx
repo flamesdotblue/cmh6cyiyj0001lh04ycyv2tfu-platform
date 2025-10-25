@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
           <div>
             <div className="text-white font-semibold">ATS Flow</div>
-            <p className="mt-1 text-neutral-400 text-sm">Modern applicant tracking, reimagined.</p>
+            <p className="mt-1 text-neutral-400 text-sm">Modern applicant tracking, minimal and fast.</p>
           </div>
           <nav className="flex flex-wrap items-center gap-4 text-sm text-neutral-300">
             <a href="#/about" className="hover:text-white">About</a>
